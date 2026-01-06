@@ -68,8 +68,8 @@ I enjoy building tools and workflows that make **risk oversight measurable, stru
 ## 📫 Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/reynard-tan-suan-wee/
-* GitHub
-* Email
+* GitHub: https://github.com/ReynardTSW
+* Email: Reynardtan03@gmail.com
 
 ---
 
