@@ -79,6 +79,6 @@ To build a career at the intersection of
 **cybersecurity • governance • risk • regulation • business value**
 
 And contribute to systems that are
-**secure, compliant, resilient — and trusted.**
+**secure, compliant, resilient and trusted.**
 
 ---
