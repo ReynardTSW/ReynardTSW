@@ -1,4 +1,4 @@
-👋 Hi there — I’m Reynard
+👋 Hi there! I’m Reynard
 
 ### 🛡 Cyber GRC | Technology Risk | IT Governance
 
